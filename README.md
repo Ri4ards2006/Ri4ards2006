@@ -1,22 +1,25 @@
 # 💫 About Me:
-👨‍💻 **IT Supporter & Tech Enthusiast**  
-🔌 Passionate about **Arduino & Embedded Systems**  
-📡 Interested in **Networking & DevOps (Docker, Server Management)**  
-🎓 Future **student at Hochschule Flensburg** (*Electrical Energy Technology*)  
+👨‍💻 **IT/Systemelectronics Apprentice & Tech Enthusiast**  
+🔌 Passionate about **Electronics & Embedded Systems**  
+📡 Interested in **Communication/Network Engineering & Microcontrollers**  
+🎓 Future **Electrical/Inforamtion Engineer** (*Electrical Energy Technology*)  
 
 ## 🌍 **Languages**
-🇱🇻 **Latvian** & 🇷🇺 **Russian** (native) | 🇩🇪 **German** (learned later) | 🇬🇧 **English** | 🇩🇰 **Danish** (basic) | 🇨🇳 **Currently learning Mandarin**  
+🇱🇻 **Latvian** & 🇷🇺 **Russian** (native) | 🇩🇪 **German** (learned later) | 🇬🇧 **English** | 🇩🇰 **Danish** (basic) | 🇨🇳 **Learning Mandarin**  
 
 ## 🎯 **Hobbies & Interests**
-🏋️‍♂️ Fitness | 📖 Reading | ♟️ Chess | 🔧 Electronics & Hardware Hacking  
+🏋️‍♂️ Fitness | 📖 Reading | ♟️ Chess | 🔧 Electronics & Circuit Tinkering | 🖥️ Playing with Servers
 
 ---
 
 ## 🚀 **Currently Working On**
-📌 Improving **Python, C++, Kotlin**  
-📌 Exploring **Kotlin Jetpack Compose**  
-📌 **Traffic Light Project** using  
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)  
+📌 Improving **Python, C++ & Verilog(HDL)**  
+📌 Exploring **Embedded Systems & Microcontroller Programming**  
+📌 **Improving Python & C++**  
+📌 **Traffic Light Project** [Arduino]  
+📌 **WeatherStation 2.0**  
+📌 **Pi/Pico Dashboard**  
+
 
 ---
 

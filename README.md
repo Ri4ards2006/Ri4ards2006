@@ -16,7 +16,7 @@
 📌 Improving **Python, C++ & Verilog(HDL)**  
 📌 Exploring **Embedded Systems & Microcontroller Programming**  
 📌 **Improving Python & C++**  
-📌 **Traffic Light Project** [Arduino]  
+📌 **Traffic Light Project** 
 📌 **WeatherStation 2.0**  
 📌 **Pi/Pico Dashboard**  
 

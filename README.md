@@ -64,6 +64,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ri4ards2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4ards2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ri4ards2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0&v=2)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ri4ards2006&theme=dark&hide_border=false&date_format=d.%20M.%20Y)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4ards2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0&v=2)
 ---
 
 ## 💰 You can help me by Donating

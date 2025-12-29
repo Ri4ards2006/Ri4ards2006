@@ -18,7 +18,7 @@
 📌 **Improving Python & C++**  
 📌 **Traffic Light Project** 
 📌 **WeatherStation 2.0**  
-📌 **Pi/Pico Dashboard**  
+📌 **Pi/Pico Dashboard**   
 
 
 ---

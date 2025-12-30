@@ -7,7 +7,7 @@
 ## 🌍 **Languages**
 🇱🇻 **Latvian** & 🇷🇺 **Russian** (native) | 🇩🇪 **German** (learned later) | 🇬🇧 **English** | 🇩🇰 **Danish** (basic) | 🇨🇳 **Learning Mandarin but stopped!**  
 
-## 🎯 **Hobbies & Interests** 
+## 🎯 **Hobbies & Interests**  
 🏋️‍♂️ Fitness | 📖 Reading | ♟️ Chess | 🔧 Electronics & Circuit Tinkering | 🖥️ Playing with Servers
 
 ---

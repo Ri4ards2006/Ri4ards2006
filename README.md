@@ -1,6 +1,6 @@
 # 💫 About Me: 
 👨‍💻 **IT/Systemelectronics Apprentice & Tech Enthusiast**  
-🔌 Passionate about **Electronics & Embedded Systems**  
+🔌 Passionate about **Electronics & Embedded Systems**   
 📡 Interested in **Communication/Network Engineering & Microcontrollers**  
 🎓 Future **Electrical/Inforamtion Engineer** (*Electrical Energy Technology*)  
 

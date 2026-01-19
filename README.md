@@ -10,7 +10,7 @@
 ## 🎯 **Hobbies & Interests**      
 🏋️‍♂️ Fitness | 📖 Reading | ♟️ Chess | 🔧 Electronics & Circuit Tinkering | 🖥️ Playing with Servers
  
----   
+---    
   
 ## 🚀 **Currently Working On**
 📌 Improving **Python, C++ & Verilog(HDL)**  

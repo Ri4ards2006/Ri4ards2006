@@ -4,7 +4,7 @@
 📡 Interested in **Communication/Network Engineering & Microcontrollers**  
 🎓 Future **Electrical/Inforamtion Engineer** (*Electrical Energy Technology*)   
 
-## 🌍 **Languages**  
+## 🌍 **Languages**   
 🇱🇻 **Latvian** & 🇷🇺 **Russian** (native) | 🇩🇪 **German** (learned later) | 🇬🇧 **English** | 🇩🇰 **Danish** (basic) | 🇨🇳 **Learning Mandarin but stopped!**   
 
 ## 🎯 **Hobbies & Interests**      

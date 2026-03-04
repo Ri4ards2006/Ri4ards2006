@@ -17,17 +17,17 @@
 
 ## 📊 My Coding Activity
 
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=Ri4ards2006&theme=dark" width="100%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 <br>
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ri4ards2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ri4ards2006&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4ards2006&layout=compact&theme=dark" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4ards2006&layout=compact&theme=dark&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>

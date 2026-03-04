@@ -1,7 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00979D&height=200&section=header&text=Ri4ards2006&fontSize=80&theme=dark" width="100%" />
+
 # 💫 About Me
-**IT/Systemelectronics Apprentice & Tech Enthusiast** 🔌 Passionate about **Electronics & Embedded Systems** | 📡 **Network Engineering** 🎓 Future **Electrical Engineer**
+**IT/Systemelectronics Apprentice & Tech Enthusiast** 🔌  
+Passionate about **Electronics & Embedded Systems** | 📡 **Network Engineering** 🎓 Future **Electrical Engineer**
 
 [![](https://img.shields.io/github/followers/Ri4ards2006?label=Follow&style=social)](https://github.com/Ri4ards2006)
 ![](https://img.shields.io/badge/Profile_views-Check-red)
@@ -19,27 +22,14 @@
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
-<br>
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ri4ards2006&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri4ards2006&layout=compact&theme=dark&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🚀 Notable Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Traffic Light** | Arduino based traffic control system | `C` / `Electronics` |
-| **WeatherStation 2.0** | Modular IoT station on ESP32 | `C++` / `IoT` |
-| **Pi/Pico Dashboard** | Monitoring dashboard for microcontrollers | `Python` / `Hardware` |
+| **[Traffic Light](https://github.com/Ri4ards2006/Traffic-Light)** | Arduino based traffic control system | `C` / `Electronics` |
+| **[WeatherStation 2.0](https://github.com/Ri4ards2006/Weather_Station2.0)** | Modular IoT weather-station on ESP32 | `C++` / `IoT` |
+| **[Analog-Digital-Clock](https://github.com/Ri4ards2006/Analog-Digital-Clock)** | Implementation of an AD-Clock assembly | `C++` / `Hardware` |
 
 ---
 
@@ -48,6 +38,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ricardszuikovs@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mr_ri4i)
 
-⚠️ *All code is for educational purposes. Use responsibly.* ⚠️
+⚠️ *All code is for educational purposes only. Use responsibly.* ⚠️
 
 </div>

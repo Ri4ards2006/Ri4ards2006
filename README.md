@@ -46,7 +46,7 @@
 | **Circuit Design** | `Electrical Engineering` | Planning ⚡ |
 | **Go-Networking Tool** | `Go` / `Binaries` | Researching 🛠️ |
 
----
+--- 
 
 ## 📊 Performance Metrics
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />

@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/WEBSITE-00979D?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://yourdomain.dev)
+[![Website](https://img.shields.io/badge/WEBSITE-00979D?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://richardzuikov.com)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ri4ards2006)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_ri4i)
 

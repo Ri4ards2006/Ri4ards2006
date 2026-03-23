@@ -20,13 +20,13 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  EMBEDDED SYSTEMS    │  FPGA / VHDL         │  REVERSE ENG.     │
-│  Arduino · ESP32     │  Digital Logic Design │  Binary Analysis  │
-│  STM32 · AVR · MCU   │  Hardware Description │  Firmware RE      │
+│  EMBEDDED SYSTEMS    │  FPGA / VHDL          │  REVERSE ENG.    │
+│  Arduino · ESP32     │  Digital Logic Design │  Binary Analysis │
+│  STM32 · AVR · MCU   │  Hardware Description │  Firmware RE     │
 ├─────────────────────────────────────────────────────────────────┤
-│  IoT & PROTOCOLS     │  ELECTRICAL ENG.      │  SYSTEMS & INFRA  │
-│  MQTT · I²C · SPI    │  PCB · Oscilloscope   │  Linux · Docker   │
-│  UART · CAN · RF     │  Soldering · EE Theory│  Proxmox · Nets   │
+│  IoT & PROTOCOLS     │  ELECTRICAL ENG.      │  SYSTEMS & INFRA │
+│  MQTT · I²C · SPI    │  PCB · Oscilloscope   │  Linux · Docker  │
+│  UART · CAN · RF     │  Soldering · EE Theory│  Proxmox · Nets  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

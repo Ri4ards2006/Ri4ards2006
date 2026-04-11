@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=200&section=header&text=RICHARD%20ZUIKOV&fontSize=72&fontColor=ffffff&theme=dark&desc=Systems%20Engineer%20%7C%20Hardware%20Hacker%20%7C%20EE%20Enthusiast&descSize=18&descAlignY=75" width="100%" />
 
-<br/>
+<br/> 
 
 ### 🔩 Hardware & Systems Engineer · Embedded Systems & IoT · Reverse Engineering
 > *Building things at the intersection of software, silicon, and solder.*
